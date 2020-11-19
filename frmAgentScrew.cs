@@ -228,7 +228,7 @@ namespace HEV_Agent_V2
 
         private void fileSystemWatcher1_Created(object sender, System.IO.FileSystemEventArgs e)
         {
-           // Debug.WriteLine(e.Name);
+           // Debug.WriteLine(e.Name);;
            // PhanTich(e.Name);
         }
         Font pop = new Font("Consolas", 11f, FontStyle.Bold);
